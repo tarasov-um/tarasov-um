@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yury @tarasov-um
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning Pithon
+- 🌱 I’m currently learning Python
 - 📫 How to reach me tarasov_um@mail.ru
 
 <!---
